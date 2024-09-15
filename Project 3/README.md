@@ -41,25 +41,6 @@ To run the game locally, follow these steps:
    python src/game_v2.py
    ```
 
-## Directory Structure
-
-The project is organized as follows:
-
-```
-evolutionary-game/
-│
-├── src/
-│   ├── game.py            # Initial version of the game
-│   ├── game_v2.py         # Version 2 of the game with improvements
-│
-├── docs/
-│   └── plots.docx         # Documentation on game evolution and key data visualizations
-│
-├── README.md              # Project overview and instructions
-├── .gitignore             # Git ignored files configuration
-└── LICENSE                # License information
-```
-
 ## How It Works
 
 This project uses evolutionary algorithms within the game's structure to continuously improve performance. The game starts with a basic version (`game.py`) and evolves over time with more sophisticated versions (e.g., `game_v2.py`). 
