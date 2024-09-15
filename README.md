@@ -13,3 +13,6 @@ The repository is organized as follows:
   Implementation of genetic algorithms to optimize mathematical functions and solve optimization problems.
 - **Project 3**: Fuzzy Logic Systems
   A fuzzy logic-based system to model real-world decisions, focusing on handling uncertainty in data.
+
+## How to Run
+Each project has its own set of instructions for compilation and execution. Please refer to the individual project folders for detailed README files that explain how to run each project.
