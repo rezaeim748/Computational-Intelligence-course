@@ -79,4 +79,4 @@ During testing, you can control the car manually using the left and right arrow 
 - [Fuzzy Logic Video Tutorial 2](https://www.youtube.com/watch?v=CBTEVFphv-E)
 
 ## Video Demonstration
-https://github.com/user-attachments/assets/f2410a63-509a-48ff-a83c-c2f3f8b27421
+![SelfDrivingCarSimulator2024-10-0220-09-23-1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/caa6f63e-bf7b-466f-9aba-b2b7b703d4ad)
