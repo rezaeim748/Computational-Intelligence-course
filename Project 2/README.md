@@ -78,6 +78,5 @@ During testing, you can control the car manually using the left and right arrow 
 - [Fuzzy Logic Video Tutorial 1](https://www.youtube.com/watch?v=TReelsVxWxg)
 - [Fuzzy Logic Video Tutorial 2](https://www.youtube.com/watch?v=CBTEVFphv-E)
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Video Demonstration
+https://github.com/user-attachments/assets/f2410a63-509a-48ff-a83c-c2f3f8b27421
